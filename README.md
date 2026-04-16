@@ -34,7 +34,7 @@ pip install pyautogui
 ### Interactive mode (paste multi-line text)
 
 ```bash
-python human_typer.py
+python Auto.py
 ```
 
 Paste or type your text, then press:
@@ -44,7 +44,7 @@ Paste or type your text, then press:
 ### Command-line mode (single string)
 
 ```bash
-python human_typer.py "Your text goes here."
+python Auto.py "Your text goes here."
 ```
 
 After launching, you have **3 seconds** to click into your target window before typing begins.
